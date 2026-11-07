@@ -1153,7 +1153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_40
+      name: _marioHammer_01
       rect:
         serializedVersion: 2
         x: 388
@@ -1175,7 +1175,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_41
+      name: _marioHammer_02
       rect:
         serializedVersion: 2
         x: 408
@@ -1197,7 +1197,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Mario_42
+      name: _marioHammer_03
       rect:
         serializedVersion: 2
         x: 428
@@ -1682,9 +1682,6 @@ TextureImporter:
       Sprite_Mario_37: 8706566674536967793
       Sprite_Mario_38: -3604062871113111416
       Sprite_Mario_39: -4622941222364186104
-      Sprite_Mario_40: 5778968304725270991
-      Sprite_Mario_41: 7599126599415133676
-      Sprite_Mario_42: 6996871328585145904
       Sprite_Mario_43: 8998336714475331594
       Sprite_Mario_44: 1329661449039804243
       Sprite_Mario_45: 3354623957607304124
@@ -1704,6 +1701,9 @@ TextureImporter:
       Sprite_Mario_59: -7734174553045002093
       Sprite_Mario_60: 1622122130505264950
       _marioFall: 3387244394707617170
+      _marioHammer_01: 5778968304725270991
+      _marioHammer_02: 7599126599415133676
+      _marioHammer_03: 6996871328585145904
       _marioIdle: -1350308076
       _marioIdle_Fireball_01: 1554904934580016266
       _marioJump: -5672653749854861051

@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: PlayArea
+    uniqueID: 2144748947
+    locked: 0
+  - name: Foreground
+    uniqueID: 3434881243
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []

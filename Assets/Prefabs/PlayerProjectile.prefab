@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7185912387340643949, guid: f1315f28a049c604da8953f2cbf764c0, type: 3}
+  m_Sprite: {fileID: 515288833, guid: f1315f28a049c604da8953f2cbf764c0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -135,7 +135,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
   lifetime: 5
-  initVelocity: {x: 0, y: 0}
+  faction: 0
+  damage: 5
 --- !u!58 &942609869580637466
 CircleCollider2D:
   m_ObjectHideFlags: 0
